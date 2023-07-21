@@ -1,0 +1,27 @@
+{
+  "name": "sujeito",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prismicio/client": "5.1.0",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
+    "next": "13.4.10",
+    "prismic-dom": "^2.2.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "sass": "^1.63.6",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/prismic-dom": "^2.1.1"
+  }
+}
